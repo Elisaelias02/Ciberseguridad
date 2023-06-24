@@ -10,8 +10,8 @@
 ## 🔗 Links
 
 
--[Esteganografia]https://github.com/Elisaelias02/Cibersegruidad/blob/main/NOTAS/ESTEGANOGRAFIA.md)
+-[Esteganografia](https://github.com/Elisaelias02/Cibersegruidad/blob/main/NOTAS/ESTEGANOGRAFIA.md)
 
 
--[Codificacion](https://github.com/Elisaelias02/Cibersegruidad/blob/main/CODIFICACIONES.md)
+-[Codificacion](https://github.com/Elisaelias02/Cibersegruidad/blob/main/NOTAS/CODIFICACIONES.md)
 
